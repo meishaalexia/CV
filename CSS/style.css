@@ -1,0 +1,52 @@
+body {
+  background-color: #f7f6e7;
+  color: #314e52;
+  margin: 0 10%;
+  text-align: center;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #314e52;
+}
+
+h2 {
+  color: #314e52;
+}
+
+h3 {
+  color: #314e52;
+  text-align: left;
+}
+
+.a {
+  width: 50%;
+}
+
+.links {
+  display: inline-block;
+  width: 25%;
+}
+
+.f {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.b {
+  text-align: left;
+}
+
+.d {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
